@@ -5,13 +5,11 @@
 [cyperdark/skin-ini-parser](https://github.com/cyperdark/skin-ini-parser)
 
 <br>
-<br>
 
 ## osu api v1 & v2 wrapper
 ### Make your api calls easiear 
 [cyperdark/osu-api-extended](https://github.com/cyperdark/osu-api-extended)
 
-<br>
 <br>
 
 ## osu color changer
